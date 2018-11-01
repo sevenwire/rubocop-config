@@ -8,7 +8,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :test, :development do
-  gem 'sevenwire-rubocop', git: "https://github.com/sevenwire/sevenwire-rubocop.git"
+  gem 'sevenwire-rubocop'
 end
 ```
 
