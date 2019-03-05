@@ -1,4 +1,4 @@
-require 'sevenwire/rubocop/version'
+require "sevenwire/rubocop/version"
 
 module Sevenwire
   module Rubocop
