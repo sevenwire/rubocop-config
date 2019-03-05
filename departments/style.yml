@@ -4,6 +4,9 @@ Style/AsciiComments:
 Style/Documentation:
   Enabled: false
 
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
 Style/MethodCalledOnDoEndBlock:
   Enabled: true
 
