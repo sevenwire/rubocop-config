@@ -1,6 +1,5 @@
 Metrics/AbcSize:
-  Enabled: true
-  Max: 20
+  Enabled: false
 
 Metrics/ClassLength:
   Enabled: true
