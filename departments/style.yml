@@ -1,6 +1,9 @@
 Style/AsciiComments:
   Enabled: false
 
+Style/ClassAndModuleChildren:
+  Enabled: false
+
 Style/Documentation:
   Enabled: false
 
@@ -9,6 +12,9 @@ Style/FrozenStringLiteralComment:
 
 Style/MethodCalledOnDoEndBlock:
   Enabled: true
+
+Style/NegatedIf:
+  Enabled: false
 
 Style/StringLiterals:
   Enabled: true
