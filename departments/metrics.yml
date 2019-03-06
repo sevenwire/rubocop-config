@@ -2,7 +2,7 @@ Metrics/AbcSize:
   Enabled: false
 
 Metrics/BlockLength:
-  ExcludeMethods: ["describe", "context"]
+  ExcludedMethods: ["describe", "context"]
 
 Metrics/ClassLength:
   Max: 200
