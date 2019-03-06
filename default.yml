@@ -1,3 +1,6 @@
+require:
+  - rubocop-rspec
+
 inherit_from:
   - ./departments/layout.yml
   - ./departments/metrics.yml
