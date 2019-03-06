@@ -1,20 +1,19 @@
 Metrics/AbcSize:
   Enabled: false
 
+Metrics/BlockLength:
+  ExcludeMethods: ["describe", "context"]
+
 Metrics/ClassLength:
-  Enabled: true
   Max: 200
 
 Metrics/LineLength:
-  Enabled: true
   Max: 100
 
 Metrics/MethodLength:
-  Enabled: true
   Max: 20
 
 Metrics/ModuleLength:
-  Enabled: true
   Max: 200
 
 Metrics/PerceivedComplexity:
