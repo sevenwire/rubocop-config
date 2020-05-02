@@ -8,3 +8,9 @@ Layout/ClassStructure:
 Layout/EndAlignment:
   Enabled: true
   EnforcedStyleAlignWith: variable
+
+Layout/LineLength:
+  Max: 100
+
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true

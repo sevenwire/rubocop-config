@@ -1,5 +1,8 @@
+require:
+  - rubocop-performance
 inherit_from:
   - ./departments/layout.yml
+  - ./departments/lint.yml
   - ./departments/metrics.yml
   - ./departments/performance.yml
   - ./departments/rspec.yml
