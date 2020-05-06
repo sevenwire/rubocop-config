@@ -14,7 +14,7 @@ Layout/FirstHashElementIndentation:
   EnforcedStyle: consistent
 
 Layout/LineLength:
-  Max: 100
+  Max: 80
 
 Layout/SpaceAroundMethodCallOperator:
   Enabled: true
