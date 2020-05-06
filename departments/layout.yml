@@ -9,6 +9,10 @@ Layout/EndAlignment:
   Enabled: true
   EnforcedStyleAlignWith: variable
 
+Layout/FirstHashElementIndentation:
+  Enabled: true
+  EnforcedStyle: consistent
+
 Layout/LineLength:
   Max: 100
 
