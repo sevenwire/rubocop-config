@@ -3,6 +3,7 @@
     "Gemfile",
     "Rubocop",
     "Sevenwire",
+    "outdent",
     "rspec"
   ],
   "workbench.colorCustomizations": {

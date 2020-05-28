@@ -9,6 +9,10 @@ Layout/EndAlignment:
   Enabled: true
   EnforcedStyleAlignWith: variable
 
+Layout/FirstArrayElementIndentation:
+  Enabled: true
+  EnforcedStyle: consistent
+
 Layout/FirstHashElementIndentation:
   Enabled: true
   EnforcedStyle: consistent
